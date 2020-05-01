@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74700b9-725d-4eea-93ab-1ac7ed3b0a81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/views/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/geocode.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/geocode.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588234610821</updated>
       <workItem from="1588234612697" duration="8847000" />
-      <workItem from="1588318708601" duration="6201000" />
+      <workItem from="1588318708601" duration="7925000" />
     </task>
     <servers />
   </component>
