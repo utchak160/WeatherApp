@@ -7,7 +7,9 @@ const geocode = (location, callback) => {
             if (data.error) {
                 callback('Place not found', undefined)
             } else {
-                callback(undefined, data.features[0].center[0], data.features[0].center[1], data.features[0].place_name)
+                longitude = data.features[0].center[0]
+                latitude = data.features[0].center[1]
+                callback(undefined, longitude, latitude, data.features[0].place_name)
             }
         })
         .catch(error => {
